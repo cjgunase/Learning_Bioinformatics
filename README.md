@@ -5,4 +5,4 @@
 # Python/R 
 # Biological Data
 # Algorithms
-## Algorithms for DNA Sequencing
+- Algorithms for DNA Sequencing
